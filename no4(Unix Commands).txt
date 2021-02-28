@@ -1,0 +1,10 @@
+man - manual for any Unix commands
+ls - list out the contents in a directory
+mkdir - make a new folder
+cd - change directory
+cp - copy a file or folder
+mv - move a file or folder
+pwd - print working directory
+cat - concatenate files
+more - to display contents of a file
+cc - compile a c file
