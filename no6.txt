@@ -1,0 +1,10 @@
+define the celc function prototype
+
+initialize temp
+Ask for user input
+store the input into temp
+
+display the input temp and returned value from celc function (passing temp as argument)
+
+define celc function
+return the celsius temperature after converting it from fahrenheit
